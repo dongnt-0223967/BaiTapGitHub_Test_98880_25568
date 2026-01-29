@@ -8,5 +8,6 @@ namespace eeee.MVVM.Models
 {
     internal class Class1
     {
+        diss cai con meeessssss
     }
 }
