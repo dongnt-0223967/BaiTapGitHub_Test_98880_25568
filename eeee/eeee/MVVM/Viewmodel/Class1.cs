@@ -10,5 +10,6 @@ namespace eeee.MVVM.Viewmodel
     internal class Class1
     {
         public ICommand LoginCommand => new RoutedCommand();
+
     }
 }
